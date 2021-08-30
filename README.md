@@ -2,7 +2,7 @@
 
 ### Tutorial Notes
 
-- Tutorial 1 (Solution<a href="username.github.io/folder/document.pdf" target="_blank">PDF.</a>)
+- Tutorial 1 (<a href="MATH2121-Tutorial-Solution-1.pdf" target="_blank">Solution</a>)
 
 <!-- You can use the [editor on GitHub](https://github.com/jade-pang/MATH2121/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
