@@ -2,6 +2,7 @@
 
 ### Tutorial Notes
 
+- Tutorial 1
 
 <!-- You can use the [editor on GitHub](https://github.com/jade-pang/MATH2121/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
