@@ -2,7 +2,7 @@
 
 ### Tutorial Notes
 
-- Tutorial 1 (<a href="MATH2121-Tutorial-Solution-1.pdf" target="_blank">Solution</a>)
+- Tutorial 1 (<a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/Ebpd_ZeCd_RJuAuC9qhDZzABZ5WsCuVoMGwmN7ZvPSiPDw?e=4F8yb0" target="_blank">Solution</a>)
 
 <!-- You can use the [editor on GitHub](https://github.com/jade-pang/MATH2121/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
