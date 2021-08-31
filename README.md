@@ -1,5 +1,5 @@
 ## MATH2121 Tutorial Page
-Section T2A/T2B
+## Sessions: T2A and T2B
 ### Tutorial Notes
 
 - <a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EZiM5gyO2oJEs3jrJ7mtvqoBAOMY2Z5pUip7BCXoAqJ2pA?e=LOyZP6" target="_blank">Tutorial 1</a> (<a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/Ebpd_ZeCd_RJuAuC9qhDZzABZ5WsCuVoMGwmN7ZvPSiPDw?e=xtaOfO">Solution</a>)
