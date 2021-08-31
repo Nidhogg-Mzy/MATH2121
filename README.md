@@ -1,8 +1,8 @@
 ## MATH2121 Tutorial Page
-![Image](https://i.redd.it/tekums8hvfr41.jpg)
+![](https://i.redd.it/tekums8hvfr41.jpg=250x250)
 ### Sessions: T2A and T2B
 ### Tutorial Notes
-favicon.ico
+
 <!-- - <a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EZiM5gyO2oJEs3jrJ7mtvqoBAOMY2Z5pUip7BCXoAqJ2pA?e=LOyZP6" target="_blank">Tutorial 1</a> (<a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/Ebpd_ZeCd_RJuAuC9qhDZzABZ5WsCuVoMGwmN7ZvPSiPDw?e=xtaOfO">Solution</a>) -->
 
 - [Tutorial 1](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EZiM5gyO2oJEs3jrJ7mtvqoBAOMY2Z5pUip7BCXoAqJ2pA?e=LOyZP6) [(Solution)](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/Ebpd_ZeCd_RJuAuC9qhDZzABZ5WsCuVoMGwmN7ZvPSiPDw?e=xtaOfO)
