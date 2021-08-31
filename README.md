@@ -1,4 +1,5 @@
 ## MATH2121 Tutorial Page
+![Image](https://i.redd.it/tekums8hvfr41.jpg)
 ### Sessions: T2A and T2B
 ### Tutorial Notes
 
