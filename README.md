@@ -1,5 +1,5 @@
 ## MATH2121 Tutorial Page
-![](https://i.redd.it/tekums8hvfr41.jpg=250x250)
+![](https://i.redd.it/tekums8hvfr41.jpg=500x500)
 ### Sessions: T2A and T2B
 ### Tutorial Notes
 
