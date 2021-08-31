@@ -1,4 +1,4 @@
-## Welcome to MATH2121 Tutorial Page
+## MATH2121 Tutorial Page
 
 ### Tutorial Notes
 
