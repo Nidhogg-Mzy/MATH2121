@@ -1,12 +1,12 @@
 ## MATH2121 Tutorial Page
-![](https://hkustconnect-my.sharepoint.com/personal/whpangaa_connect_ust_hk/Documents/Tutorial%20Notes/MATH%202121/Elmo.png)
-<!-- {height="700px" width="400px"} -->
+
 
 - Sessions: **T2A** and **T2B**
 - TA: PANG Wai Ho (Jade)
 - Email: whpangaa@connect.ust.hk
 
-
+![](https://hkustconnect-my.sharepoint.com/personal/whpangaa_connect_ust_hk/Documents/Tutorial%20Notes/MATH%202121/Elmo.png)
+<!-- {height="700px" width="400px"} -->
 ### Tutorial Notes
 
 <!-- - <a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EZiM5gyO2oJEs3jrJ7mtvqoBAOMY2Z5pUip7BCXoAqJ2pA?e=LOyZP6" target="_blank">Tutorial 1</a> (<a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/Ebpd_ZeCd_RJuAuC9qhDZzABZ5WsCuVoMGwmN7ZvPSiPDw?e=xtaOfO">Solution</a>) -->
