@@ -14,7 +14,8 @@
 <!--[Tutorial 2](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EW9fywG0xFVJtWwjK4bThAcBu7ztXn1DG5sHw997N3hIjg?e=cKUgDc)-->
 
 
-### Exercises _(These are just the exercises from the notes above.)_
+### Exercises
+ _(These are just the exercises from the notes above.)_
 - [Exercise 1](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/Ebpd_ZeCd_RJuAuC9qhDZzABZ5WsCuVoMGwmN7ZvPSiPDw?e=xtaOfO)
 <!--[Solution](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/Ecev-rCMlzdLsw1KErT0g4kB44WBMrVYpt4o6srpxqi5lg?e=1SQ0cG)  -->
 
