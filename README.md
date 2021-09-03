@@ -1,6 +1,6 @@
 ## MATH2121 Tutorial Page
 <img src= "Elmo.png" width="360" height="180">
-(Picture from Reddit font-size: 14px)
+h1{(Picture from Reddit font-size: 14px)}
 
 - Sessions: **T2A** and **T2B**
 - TA: PANG Wai Ho (Jade)
