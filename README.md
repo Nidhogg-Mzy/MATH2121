@@ -1,5 +1,5 @@
 ## MATH2121 Tutorial Page
-<img src= "Elmo.png" width="200" height="100">
+<img src= "Elmo.png" width="300" height="150">
 
 - Sessions: **T2A** and **T2B**
 - TA: PANG Wai Ho (Jade)
