@@ -5,7 +5,7 @@
 - TA: PANG Wai Ho (Jade)
 - Email: whpangaa@connect.ust.hk
 
-![](https://hkustconnect-my.sharepoint.com/personal/whpangaa_connect_ust_hk/Documents/Tutorial%20Notes/MATH%202121/Elmo.png)
+![](https://hkustconnect-my.sharepoint.com/:i:/g/personal/whpangaa_connect_ust_hk/EW1FFX_mH7ZJlQbpXUc8HqIBx0R2sD5NcWKpjgOwdTpxiA?e=DfJhfe)
 <!-- {height="700px" width="400px"} -->
 ### Tutorial Notes
 
