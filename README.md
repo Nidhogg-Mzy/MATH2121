@@ -1,5 +1,6 @@
 ## MATH2121 Tutorial Page
-![](https://hkustconnect-my.sharepoint.com/personal/whpangaa_connect_ust_hk/Documents/Tutorial%20Notes/MATH%202121/Elmo.png){height="700px" width="400px"}
+![](https://hkustconnect-my.sharepoint.com/personal/whpangaa_connect_ust_hk/Documents/Tutorial%20Notes/MATH%202121/Elmo.png)
+<!-- {height="700px" width="400px"} -->
 
 - Sessions: **T2A** and **T2B**
 - TA: PANG Wai Ho (Jade)
