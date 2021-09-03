@@ -1,11 +1,11 @@
 ## MATH2121 Tutorial Page
-
+<img src= "Elmo.png" width="200" height="100">
 
 - Sessions: **T2A** and **T2B**
 - TA: PANG Wai Ho (Jade)
 - Email: whpangaa@connect.ust.hk
 
-<img src= "Elmo.png" width="200" height="100">
+
 <!-- {height="700px" width="700px"} -->
 
 ### Tutorial Notes
