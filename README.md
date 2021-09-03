@@ -5,7 +5,7 @@
 - TA: PANG Wai Ho (Jade)
 - Email: whpangaa@connect.ust.hk
 
-<img src= "Elmo.png" width="800" height="400">
+<img src= "Elmo.png" width="800" height="100">
 <!-- {height="700px" width="700px"} -->
 
 ### Tutorial Notes
