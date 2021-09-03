@@ -1,6 +1,6 @@
 ## MATH2121 Tutorial Page
-<!-- ![](https://i.redd.it/tekums8hvfr41.jpg){:height="700px" width="400px"}
- -->
+![](https://i.redd.it/tekums8hvfr41.jpg){:height="700px" width="400px"}
+
 - Sessions: **T2A** and **T2B**
 - TA: PANG Wai Ho (Jade)
 - Email: whpangaa@connect.ust.hk
