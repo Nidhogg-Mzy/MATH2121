@@ -20,7 +20,8 @@
 - [Exercise 1](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/Ebpd_ZeCd_RJuAuC9qhDZzABZ5WsCuVoMGwmN7ZvPSiPDw?e=xtaOfO)
 <!--[Solution](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/Ecev-rCMlzdLsw1KErT0g4kB44WBMrVYpt4o6srpxqi5lg?e=1SQ0cG)  -->
 
-
+### Solutions
+<!-- <a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ERbNRtMgRP1DmoBlBVhegooB1AtBu5GYP7Us3CMbBMgewA?e=ftkwq2target="_blank">Solution 1</a> -->
 <!-- You can use the [editor on GitHub](https://github.com/jade-pang/MATH2121/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
